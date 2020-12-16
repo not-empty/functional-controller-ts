@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["es5", "dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "module": "commonjs",
+        "sourceMap": true,
+        "jsx": "preserve",
+        "outDir": "./build",
+        "declaration": true
+    },
+    "include": ["src/**.*"],
+    "exclude": ["**/build/", "node_modules", "**/*.spec.ts", "**/*.test.ts"]
+}
