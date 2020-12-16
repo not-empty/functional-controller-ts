@@ -2,6 +2,10 @@
     "name": "functional-controller",
     "version": "1.0.2",
     "main": "build/index.js",
+    "files": [
+        "README.md",
+        "build/"
+    ],
     "scripts": {
         "build": "tsc -p tsconfig.build.json"
     },
