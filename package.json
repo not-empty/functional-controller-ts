@@ -50,11 +50,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rainapepe/functional-controller.git"
+        "url": "git+https://github.com/kiwfy/functional-controller.git"
     },
     "bugs": {
-        "url": "https://github.com/rainapepe/functional-controller/issues"
+        "url": "https://github.com/kiwfy/functional-controller/issues"
     },
-    "homepage": "https://github.com/rainapepe/functional-controller#readme",
+    "homepage": "https://github.com/kiwfy/functional-controller#readme",
     "description": ""
 }
