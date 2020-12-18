@@ -6,6 +6,10 @@
         "README.md",
         "build/"
     ],
+    "keywords": [
+        "express",
+        "controller"
+    ],
     "scripts": {
         "build": "tsc -p tsconfig.build.json"
     },
