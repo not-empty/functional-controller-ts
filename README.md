@@ -1,4 +1,4 @@
-[![Latest Version](https://img.shields.io/github/v/release/kiwfy/lumen-ala.svg?style=flat-square)](https://github.com/kiwfy/functional-controller/releases)
+[![Latest Version](https://img.shields.io/github/v/release/kiwfy/functional-controller.svg?style=flat-square)](https://github.com/kiwfy/functional-controller/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Functional-Controller
